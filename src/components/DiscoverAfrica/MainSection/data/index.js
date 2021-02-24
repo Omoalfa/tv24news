@@ -5,7 +5,7 @@ import ikogosi from './assets/ikogosi.png';
 import mambilla from './assets/mambilla.png';
 
 
-const data = [
+export const mainData = [
     {
         title: 'Calabar Festival',
         content: 'The ritual is performed every year to commemorate the lives of departed members of the armed forces. It is a symbol of peace. The refusal of the birds to fly has brought up so many debates on social media with some attributing it to the alleged injustice and insecurity in the country.',
@@ -33,4 +33,15 @@ const data = [
     }
 ]
 
-export default data
+export const sideData = [
+    'Biden says Trump impeachment is a ‘decision for Congress’: Live',
+    'Biden: ‘It’s a good thing’ Trump is skipping inauguration',
+    'Pelosi urges US general to block Trump from nuclear codes',
+    'China says US facing ‘internal collapse’ after pro-Trump riot',
+    'Trump’s incitement, plan to skip inauguration recalls Civil War',
+    'Iran’s IRGC unveils underground missile base amid US tensions',
+    'The delusion of American exceptionalism',
+    'Woman who falsely accused Black teen of theft is arrested',
+    'The day Trump finally lost it',
+    '‘Major incident’ in London as number of COVID patients soars'
+]
